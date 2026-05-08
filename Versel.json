@@ -1,9 +1,0 @@
-{
-  "redirects": [
-    {
-      "source": "/(.*)",
-      "destination": "https://solar-driver-org.flat-poetry-003d.workers.dev/",
-      "permanent": true
-    }
-  ]
-}
